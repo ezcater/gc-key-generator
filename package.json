@@ -1,0 +1,12 @@
+{
+  "name": "gc-key-generator",
+  "version": "1.0.0",
+  "description": "Generation of API Key for external usage",
+  "main": "index.js",
+  "author": "Ta Duy Duc",
+  "license": "GoCater",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^6.0.0"
+  }
+}
